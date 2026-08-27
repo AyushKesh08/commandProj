@@ -3,4 +3,5 @@ class A{
 
   int x = 919191;
   String y = "Aayush";
+  boolean z = true;
 }
